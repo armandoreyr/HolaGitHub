@@ -18,6 +18,6 @@ commit
 clone
 ```
 
-El enlace de este readme esta [aqui](https://github.com/armandoreyr/HolaGitHub/edit/main/README.md)
+El enlace de este readme esta [aqui](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 ![imagen del ITCH2]()
