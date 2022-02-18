@@ -8,6 +8,8 @@ Mi primer repositorio.
 
 *texto en italica* _otro texto en italica_
 
+ejemplo 2.0
+
 > Cita
 > Descripcion de cita
 
